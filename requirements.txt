@@ -1,0 +1,5 @@
+streamlit
+feedparser
+pandas
+google-generativeai
+duckduckgo-search
